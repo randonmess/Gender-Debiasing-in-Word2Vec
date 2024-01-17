@@ -1,5 +1,7 @@
 # Gender-Debiasing-in-Word2Vec
-Debiasing gender influences on Word2Vec embeddings
+Debiasing gender influences on Word2Vec embeddings.
+
+**Note: unable to upload `data/glove.6B.50d.txt' file due to size**
 
 ## Objectives
 * Explain how word embeddings capture relationships between words
